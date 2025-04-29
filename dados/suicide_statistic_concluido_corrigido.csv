@@ -1,3 +1,4 @@
+<<<<<<< HEAD:dados/suicide_statistic_concluido_corrigido.csv
 country,year,sex,age,suicides_no,population
 Albania,1985,female,15-24 years,11.5,277900.0
 Albania,1985,female,25-34 years,6.318181818181818,246800.0
@@ -40007,3 +40008,5 @@ Virgin Islands (USA),2015,male,35-54 years,1.0,12516.0
 Virgin Islands (USA),2015,male,5-14 years,0.0,7291.0
 Virgin Islands (USA),2015,male,55-74 years,0.0,12615.0
 Virgin Islands (USA),2015,male,75+ years,0.0,2496.0
+=======
+>>>>>>> a3f28f3cbd875cfbc2cbc7ceaea1d58ec01f1e6c:dados/suicide_statistic_limpo.csv
